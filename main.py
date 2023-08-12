@@ -1,4 +1,3 @@
-from time import time
 from threading import Lock , Thread , Timer
 from datetime import datetime
 from colorama import Fore, init
